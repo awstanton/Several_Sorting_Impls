@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1536694510 source:d:\projects\software\sorting\countingsort.cpp
+	<vector>
+	"countingsort.h"
+
+1536694706 source:d:\projects\software\sorting\heapsort.cpp
+	<vector>
+	"heapsort.h"
+
+1536694722 source:d:\projects\software\sorting\mergesort.cpp
+	<vector>
+	<cmath>
+	"mergesort.h"
+
+1536694695 d:\projects\software\sorting\countingsort.h
+	<vector>
+
+1536694713 d:\projects\software\sorting\heapsort.h
+	<vector>
+
+1536694734 d:\projects\software\sorting\mergesort.h
+	<vector>
+
+1536694861 source:d:\projects\software\sorting\print.cpp
+	<vector>
+	<stdio.h>
+	"print.h"
+
+1536694835 d:\projects\software\sorting\print.h
+	<vector>
+
+1536694891 source:d:\projects\software\sorting\quicksort.cpp
+	<vector>
+	"quicksort.h"
+
+1536695079 d:\projects\software\sorting\quicksort.h
+	<vector>
+
+1536695090 source:d:\projects\software\sorting\select.cpp
+	<cmath>
+	<vector>
+	<stdio.h>
+	"select.h"
+
+1536695072 d:\projects\software\sorting\select.h
+	<vector>
+
+1536695366 source:d:\projects\software\sorting\main.cpp
+	<stdio.h>
+	<vector>
+	<algorithm>
+	<cmath>
+	"UnitTest++.h"
+	"countingsort.h"
+	"heapsort.h"
+	"mergesort.h"
+	"quicksort.h"
+	"print.h"
+	"quicksort.h"
+	"select.h"
+
